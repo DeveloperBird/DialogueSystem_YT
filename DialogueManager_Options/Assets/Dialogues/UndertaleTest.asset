@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6364b21e499fa4f4aa46be1dc5ba4c24, type: 3}
+  m_Name: UndertaleTest
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 3a17f9acfc0169b42be0baf8ba7d0a75, type: 2}
+    myText: Hey... How's it going?
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: e3d1bc1e51414424fa21e2340c673a1c, type: 2}
+    myText: Hi!!! I'm good, what about you?
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: e3d1bc1e51414424fa21e2340c673a1c, type: 2}
+    myText: I am angry!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 3a17f9acfc0169b42be0baf8ba7d0a75, type: 2}
+    myText: I am Happy!
+    characterEmotion: 1

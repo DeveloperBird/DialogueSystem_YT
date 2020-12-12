@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 75c24ab0917e6d145b6f5a8cddf1ef56
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Linguineve
+  fontNames:
+  - Linguineve
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3dc4e9e5de210d245a9d77c4f0470aa9, type: 3}
+  - {fileID: 12800000, guid: 2dcb87f8dd058f6478631619d9061e4c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

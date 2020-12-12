@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6364b21e499fa4f4aa46be1dc5ba4c24, type: 3}
+  m_Name: Conversation
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: ca25c0b2fafa771489a936b9f55ed568, type: 2}
+  - {fileID: 11400000, guid: e3d1bc1e51414424fa21e2340c673a1c, type: 2}
+  - {fileID: 11400000, guid: 3a17f9acfc0169b42be0baf8ba7d0a75, type: 2}
+  - {fileID: 11400000, guid: 38d5ba1996e896949948df6180af27ac, type: 2}
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: ead3a18bae3a0b0419c79cc3bc5b6400, type: 2}
+    myText: Hey jimbo hows it goin
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: aab5b27f86f5c404caaeea3048d98f88, type: 2}
+    myText: its goin good bob
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: ead3a18bae3a0b0419c79cc3bc5b6400, type: 2}
+    myText: thats great jimbo!
+    characterEmotion: 0
